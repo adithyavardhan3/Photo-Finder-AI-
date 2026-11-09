@@ -1,0 +1,4 @@
+[
+  "tests/test_scanner.py::test_scan_folder_finds_supported_images",
+  "tests/test_scanner.py::test_scan_folder_includes_camera_raw_formats"
+]

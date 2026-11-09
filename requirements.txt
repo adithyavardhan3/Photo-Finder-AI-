@@ -1,0 +1,8 @@
+PySide6>=6.7,<7
+Pillow>=10.0
+opencv-contrib-python==4.10.0.84
+numpy>=1.26
+pytest>=8.0
+
+# Optional RAW camera file decoding (install if your studio uses RAW formats)
+rawpy>=0.21; platform_system == "Windows"
